@@ -18,7 +18,7 @@ function CronometroReact() {
 
   return (
     <div style={{textAlign: 'center'}}>
-      <h1>Curso React</h1>
+      <h1>Curso React JS</h1>
       <p>Demo Cronómetro</p>
       <div style={{fontSize: '100px'}}>
         <span>{days}</span>:<span>{hours}</span>:<span>{minutes}</span>:<span>{seconds}</span>
